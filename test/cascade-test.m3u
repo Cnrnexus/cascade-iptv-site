@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sample.bbb" group-title="Sample streams (freely licensed)",Big Buck Bunny (Blender Foundation, CC BY 3.0)
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="sample.sintel" group-title="Sample streams (freely licensed)",Sintel (Blender Foundation, CC BY 3.0)
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="sample.live" group-title="Sample streams (freely licensed)",Live demo: Tears of Steel loop (Blender Foundation, CC BY 3.0)
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
 #EXTINF:-1 tvg-id="sample.tos" group-title="Sample streams (freely licensed)",Tears of Steel (Blender Foundation, CC BY 3.0)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-id="sample.bipbop" group-title="Sample streams (freely licensed)",Apple HLS sample (bipbop)
