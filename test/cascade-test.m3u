@@ -3,8 +3,6 @@
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="sample.ed" tvg-name="Elephants Dream" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/ed.png" group-title="Blender open movies (CC BY)",Elephants Dream
 https://playertest.longtailvideo.com/adaptive/elephants_dream_v4/index.m3u8
-#EXTINF:-1 tvg-id="sample.sintel" tvg-name="Sintel" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/sintel.png" group-title="Blender open movies (CC BY)",Sintel
-https://storage.googleapis.com/shaka-demo-assets/sintel-fmp4-aes/master.m3u8
 #EXTINF:-1 tvg-id="sample.tos" tvg-name="Tears of Steel" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/tos.png" group-title="Blender open movies (CC BY)",Tears of Steel
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-id="sample.tossub" tvg-name="Tears of Steel (subtitles)" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/tossub.png" group-title="Blender open movies (CC BY)",Tears of Steel (subtitles)

@@ -17,8 +17,6 @@ CH = [
   "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"),
  ("ed", "Elephants Dream", G_FILMS, "ED", "#6A1B9A", 60, "Two characters explore a strange machine world. The first Blender open movie (2006).",
   "https://playertest.longtailvideo.com/adaptive/elephants_dream_v4/index.m3u8"),
- ("sintel", "Sintel", G_FILMS, "SI", "#AD1457", 60, "A young woman searches for her lost dragon companion. Blender Foundation open movie (2010).",
-  "https://storage.googleapis.com/shaka-demo-assets/sintel-fmp4-aes/master.m3u8"),
  ("tos", "Tears of Steel", G_FILMS, "TS", "#4527A0", 60, "Scientists in a future Amsterdam try to save the world from robots. Blender Foundation open movie (2012).",
   "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"),
  ("tossub", "Tears of Steel (subtitles)", G_FILMS, "TS", "#283593", 60, "Tears of Steel with several subtitle languages, for trying the subtitle menu.",
