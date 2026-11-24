@@ -23,8 +23,6 @@ CH = [
   "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel-multiple-subtitles.ism/.m3u8"),
  ("live", "Tears of Steel Live", G_LIVE, "TL", "#1565C0", 120, "A continuous live loop of Tears of Steel with an on-screen clock.",
   "https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8"),
- ("bbblive", "Big Buck Bunny Live", G_LIVE, "BL", "#00695C", 120, "A continuous live loop of Big Buck Bunny.",
-  "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"),
  ("livemark", "Live with programme markers", G_LIVE, "LM", "#EF6C00", 120, "A live test loop that carries programme break markers.",
   "https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8"),
  ("bipbop", "Apple Test Stream", G_TEST, "AT", "#C62828", 120, "Apple's adaptive bitrate test pattern with audible beeps.",
