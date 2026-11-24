@@ -68,4 +68,5 @@ with open("test/epg.xml", "w", newline="\n") as f:
             n = t + dt.timedelta(minutes=mins)
             f.write(f'  <programme start="{fmt(t)}" stop="{fmt(n)}" channel="sample.{cid}"><title>{escape(name)}</title><desc>{escape(desc)}</desc></programme>\n')
             t = n
+    f.write('</tv>\n')
 print(len(CH), "channels;", os.path.getsize("test/epg.xml") // 1024, "KB guide")
