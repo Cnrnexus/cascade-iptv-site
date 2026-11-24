@@ -1,9 +1,23 @@
 #EXTM3U url-tvg="https://cnrnexus.github.io/cascade-iptv-site/test/epg.xml"
-#EXTINF:-1 tvg-id="sample.bbb" tvg-name="Big Buck Bunny" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/bbb.png" group-title="Blender open movies (CC BY 3.0)",Big Buck Bunny
+#EXTINF:-1 tvg-id="sample.bbb" tvg-name="Big Buck Bunny" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/bbb.png" group-title="Blender open movies (CC BY)",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="sample.live" tvg-name="Tears of Steel Live" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/live.png" group-title="Blender open movies (CC BY 3.0)",Tears of Steel Live
-https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
-#EXTINF:-1 tvg-id="sample.tos" tvg-name="Tears of Steel" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/tos.png" group-title="Blender open movies (CC BY 3.0)",Tears of Steel
+#EXTINF:-1 tvg-id="sample.ed" tvg-name="Elephants Dream" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/ed.png" group-title="Blender open movies (CC BY)",Elephants Dream
+https://playertest.longtailvideo.com/adaptive/elephants_dream_v4/index.m3u8
+#EXTINF:-1 tvg-id="sample.sintel" tvg-name="Sintel" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/sintel.png" group-title="Blender open movies (CC BY)",Sintel
+https://storage.googleapis.com/shaka-demo-assets/sintel-fmp4-aes/master.m3u8
+#EXTINF:-1 tvg-id="sample.tos" tvg-name="Tears of Steel" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/tos.png" group-title="Blender open movies (CC BY)",Tears of Steel
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="sample.bipbop" tvg-name="Apple Test Stream" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/bipbop.png" group-title="Test streams",Apple Test Stream
+#EXTINF:-1 tvg-id="sample.tossub" tvg-name="Tears of Steel (subtitles)" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/tossub.png" group-title="Blender open movies (CC BY)",Tears of Steel (subtitles)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel-multiple-subtitles.ism/.m3u8
+#EXTINF:-1 tvg-id="sample.live" tvg-name="Tears of Steel Live" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/live.png" group-title="Live samples",Tears of Steel Live
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="sample.bbblive" tvg-name="Big Buck Bunny Live" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/bbblive.png" group-title="Live samples",Big Buck Bunny Live
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="sample.livemark" tvg-name="Live with programme markers" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/livemark.png" group-title="Live samples",Live with programme markers
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 tvg-id="sample.bipbop" tvg-name="Apple Test Stream" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/bipbop.png" group-title="Player test streams",Apple Test Stream
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="sample.bipbopadv" tvg-name="Apple Advanced Stream" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/bipbopadv.png" group-title="Player test streams",Apple Advanced Stream
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="sample.bipbophevc" tvg-name="Apple HEVC Stream" tvg-logo="https://cnrnexus.github.io/cascade-iptv-site/test/logos/bipbophevc.png" group-title="Player test streams",Apple HEVC Stream
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
